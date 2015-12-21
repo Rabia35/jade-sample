@@ -1,0 +1,1 @@
+This is a sample Multi-Agent System developed in JADE.
